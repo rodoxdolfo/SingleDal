@@ -1,0 +1,9 @@
+C:\Users\rodolfo.garcia\Desktop\Rodolfo\Framework.SingleDal\SingleDal\bin\Debug\SingleDal.dll.config
+C:\Users\rodolfo.garcia\Desktop\Rodolfo\Framework.SingleDal\SingleDal\bin\Debug\SingleDal.dll
+C:\Users\rodolfo.garcia\Desktop\Rodolfo\Framework.SingleDal\SingleDal\bin\Debug\SingleDal.pdb
+C:\Users\rodolfo.garcia\Desktop\Rodolfo\Framework.SingleDal\SingleDal\bin\Debug\MySql.Data.dll
+C:\Users\rodolfo.garcia\Desktop\Rodolfo\Framework.SingleDal\SingleDal\obj\Debug\SingleDal.dll
+C:\Users\rodolfo.garcia\Desktop\Rodolfo\Framework.SingleDal\SingleDal\obj\Debug\SingleDal.pdb
+C:\Users\rgarc_000\Desktop\SingleDal-master\SingleDal\obj\Debug\SingleDal.csprojResolveAssemblyReference.cache
+C:\Users\rgarc_000\Desktop\SingleDal-master\SingleDal\obj\Debug\SingleDal.dll
+C:\Users\rgarc_000\Desktop\SingleDal-master\SingleDal\obj\Debug\SingleDal.pdb
